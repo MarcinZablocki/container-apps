@@ -552,7 +552,7 @@
     },
         {
         "description": "Fast, free and incredibly easy to use, the Ubuntu operating system powers millions of desktop PCs, laptops and servers around the world.",
-        "repository": "private",
+        "repository": "qnap",
         "inspect": "{}",
         "arch": "arm64",
         "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/master/images/ubuntu_icon.png",
