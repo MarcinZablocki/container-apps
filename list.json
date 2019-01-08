@@ -551,7 +551,7 @@
         "type": "lxc"
     },
     {
-        "description": "Fast, free and incredibly easy to use, the Ubuntu operating system powers millions of desktop PCs, laptops and servers around the world.",
+        "description": "Ubuntu.",
         "repository": "qnap",
         "inspect": "{}",
         "arch": "arm64",
