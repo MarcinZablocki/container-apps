@@ -550,7 +550,7 @@
         "location": "http://download.qnap.com/QPKG/container/ubuntu-xenial_16.04_20180808_arm64.tar.gz",
         "type": "lxc"
     },
-        {
+    {
         "description": "Fast, free and incredibly easy to use, the Ubuntu operating system powers millions of desktop PCs, laptops and servers around the world.",
         "repository": "qnap",
         "inspect": "{}",
